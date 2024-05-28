@@ -93,13 +93,13 @@ margin-top: 20px;
 .contact-form__input{
     padding: 10px;
     border: none;
-    border: solid black 1px;
+    border-bottom: solid black 1px;
 }
 
 .contact-form__textarea{
     padding: 10px;
     border: none;
-    border: solid black 1px;
+    border-bottom: solid black 1px;
 }
 
 .contact-form__submit{
@@ -108,6 +108,8 @@ margin-top: 20px;
     padding-left: 20px;
     padding-right: 20px;
     background-color: orangered;
-    color: black;
+    color: white;
     border: none;
+    font-weight: normal;
+    font-family: "Young Serif", serif;
 }
