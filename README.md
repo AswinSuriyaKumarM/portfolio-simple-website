@@ -1,4 +1,4 @@
-# portfolio-simple-website
+# Portfolio-Simple-Website
 # Description
 This is a personal portfolio website created using HTML and CSS. The site serves as a digital resume, showcasing my skills, interests, and projects. It includes sections such as About Me, My Interests, My Projects, and a Contact form.
 
