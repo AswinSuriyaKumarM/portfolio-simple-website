@@ -31,4 +31,7 @@ This is a personal portfolio website created using HTML and CSS. The site serves
 - **Font:** Young Serif from Google Fonts.
 - **Icons and other resources:** Icons and other media used are either created by me or sourced from free resources.
 
-Thank you.
+## Contributing
+If you'd like to contribute or suggest improvements, please feel free to open an issue or create a pull request. Your feedback is greatly appreciated.
+
+Thank you for visiting my portfolio website!
