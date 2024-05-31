@@ -34,4 +34,4 @@ This is a personal portfolio website created using HTML and CSS. The site serves
 ## Contributing
 If you'd like to contribute or suggest improvements, please feel free to open an issue or create a pull request. Your feedback is greatly appreciated.
 
-Thank you for visiting my portfolio website!
+Thank you for visiting the website!
